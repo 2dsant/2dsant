@@ -14,5 +14,5 @@ You can find me on any of these social networks:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/2dsant/)](https://www.facebook.com/2dsant)
 
 <p>
-Main technologies :computer:: Javascript, PHP, HTML, CSS.
+Main technologies :computer:: Javascript, C#, HTML, CSS.
  </p>
