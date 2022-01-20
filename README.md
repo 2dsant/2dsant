@@ -5,8 +5,8 @@
 # Hi, I'm David! :D
 
 <p align="left">
-I'm a student of programming and I'm in love with the area. <br>
-You can find me on any of these social networks:
+i'm a student of programming and i'm in love with the area. <br>
+you can find me on any of these social networks:
 </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/2dsant)](https://br.linkedin.com/in/2dsant)
