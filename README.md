@@ -6,6 +6,8 @@
 
 <p align="left">
 i'm a student of programming and i'm in love with the area. <br>
+here you will find my projects and all the new technologies that i'm studying. <br>
+hope you enjoy it 😉! <br>
 you can find me on any of these social networks:
 </p>
 
